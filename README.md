@@ -30,11 +30,7 @@ See more screenshots at [PalWorldResourceCalculator/readme](https://github.com/d
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
-- [Install](#install)
-- [Usage](#usage)
-- [API](#api)
-- [Issues](#issues)
+- [Live Demo](https://vaughant31.github.io/PalWorldResourceCalculator/)
 - [Contributing](#contributing)
 - [To Do (1)](#to-do)
 - [License](#license)
