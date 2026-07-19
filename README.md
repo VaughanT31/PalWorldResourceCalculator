@@ -1,16 +1,9 @@
-# I stopped playing Palworld.
-
-This app is not being maintained
-
-
----
-
 # Pal World Resource Calculator
 Crafting &amp; Inventory Tracking for Pal World
 
 Watch a demo on YouTube at [https://www.youtube.com/watch?v=MYMQfKZfxzY](https://www.youtube.com/watch?v=MYMQfKZfxzY)
 
-![Static Badge](https://img.shields.io/badge/version-1.1-blue) April 5, 2024
+![Static Badge](https://img.shields.io/badge/version-1.2-blue) July 2026
 
 An easy to use crafting to do list with inventory tracking and extra features.
 - Decide what you want to make and how many.
@@ -18,7 +11,7 @@ An easy to use crafting to do list with inventory tracking and extra features.
 - Then the app will tell you what you need to get to complete your goal.
 
 > [!NOTE]
-> Supports in-game items up to Pal World v1.5.X. Updates for new items released in or after v0.2.0.6 (Raid Boss "Bellanoir") NOT planned.
+> Item data updated for Palworld's v1.0 full release (July 2026) — new Sunreach/World Tree items (Wing Pack, Soralite/Paloxite lines, Ancient civilization building set, new Sky-tier weapons, etc.), plus a pass correcting ~250 pre-existing recipes whose costs had drifted out of date. Sakurajima and Feybreak-era items not yet individually audited — that's next.
 
 ## Initial Screen
 ![Initial screen](https://github.com/danaildichev/PalWorldResourceCalculator/blob/main/readme/01_initial.png)
@@ -83,8 +76,9 @@ PRs accepted.
 
 ## To Do
 
-- Update JSON data for new items released in Palworld v0.2.0.6 (Raid Boss "Bellanoir")
-- Update JSON data for new items released in Sakurajima update
+- Source icon images for the newly-added v1.0 items (data is in place; images are placeholders for now)
+- Add items introduced in the Sakurajima update
+- Add items introduced in the Feybreak update
 
 ## License
 
